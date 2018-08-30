@@ -23,5 +23,6 @@ Zoiper is a FREE IAX and SIP softphone application for voip calls over 3G or WiF
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
+    <file src="**" exclude="**\README.md;**\update.ps1" />
   </files>
 </package>
