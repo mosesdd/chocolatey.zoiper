@@ -5,7 +5,7 @@ $ErrorActionPreference = 'Stop';
 $toolsDir            = "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
 $PackageParameters   = Get-PackageParameters
 $urlPackage          = 'https://www.zoiper.com/en/voip-softphone/download/zoiper5/for/windows'
-$checksumPackage     = '5F8562A4238252070CE3128B788FB8150AA23434C3CF76015DB6A974E895E2C3C6DE35E9773E3F25524A12D847D83A3B7530054870E8DB961CD13EF4068CB76D'
+$checksumPackage     = '3169596975CAE0259968D6E4E111FBF4E249156012A28F870A5F7F135372F9604F0501DCE59604E6AE55193F75D8867167BE2D3299C1AD055B23F28B189CA8E6'
 $checksumTypePackage = 'SHA512'
 
 Import-Module -Name "$($toolsDir)\helpers.ps1"
