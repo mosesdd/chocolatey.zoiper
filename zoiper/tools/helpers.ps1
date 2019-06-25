@@ -59,7 +59,7 @@ function Update-RegistryValue {
     catch {
         New-ItemProperty `
             -Path $Path `
-            -Name $Name`
+            -Name $Name `
             -PropertyType $Type `
             -Value $Value
         Write-Output `
