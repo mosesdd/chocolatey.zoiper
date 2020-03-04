@@ -5,11 +5,11 @@
     <id>zoiper</id>
     <version>5.3.7</version>
     <packageSourceUrl>https://github.com/mosesdd/chocolatey.zoiper</packageSourceUrl>
-    <owners>ITIGO AG, sbaerlocher</owners>
+    <owners>ITIGO AG, sbaerlocher, mosesdd</owners>
     <title>Zoiper</title>
     <authors>Zoiper</authors>
-    <projectUrl>https://www.zoiper.com/en/voip-softphone/download/current</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/mosesdd/chocolatey.zoiper/master/icon/zoiper.png</iconUrl>
+    <projectUrl>https://www.zoiper.com/en/products/zoiper5</projectUrl>
+    <iconUrl>https://rawgit.com/mosesdd/chocolatey.zoiper/master/icon/zoiper.png</iconUrl>
     <tags>zoiper voip</tags>
     <summary>VoIP Client for IP Telephony.</summary>
     <description><![CDATA[
