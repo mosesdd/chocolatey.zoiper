@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>zoiper</id>
-    <version>5.4.10</version>
+    <version>5.4.12</version>
     <packageSourceUrl>https://github.com/mosesdd/chocolatey.zoiper</packageSourceUrl>
     <owners>ITIGO AG, sbaerlocher, mosesdd</owners>
     <title>Zoiper</title>
